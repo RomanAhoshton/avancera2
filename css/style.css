@@ -854,7 +854,6 @@
     margin-top: 125px;
   }
 }
-
 .contact_text_bottom {
   margin-right: 300px;
 }
@@ -982,9 +981,6 @@
 @media (max-width: 550px) {
   .submit {
     font-size: 25px;
-    -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
   }
 }
 
